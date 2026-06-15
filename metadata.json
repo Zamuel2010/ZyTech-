@@ -1,0 +1,6 @@
+{
+  "name": "ZyroTech Portfolio",
+  "description": "A high-tech dark futuristic glassmorphism portfolio with an expanding red drop animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
